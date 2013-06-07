@@ -16,4 +16,5 @@ If you would like to use the default bootstrap templates, use the following dire
 
     //= require angular-ui-bootstrap-tpls
 
-Gem based on Angularjs-rails(https://github.com/confuseddesi/angularjs-rails) by Hirav Gandhi
+Gem based on Angularjs-rails(https://github.com/hiravgandhi/angularjs-rails) by Hirav Gandhi
+
