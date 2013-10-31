@@ -15,6 +15,11 @@ Add the following directive to your Javascript manifest file (application.js):
 If you would like to use the default bootstrap templates, use the following directive instead
 
     //= require angular-ui-bootstrap-tpls
+    
+    
+You may need to add 'ui.bootstrap' into your app declaration for example
+
+    app = angular.module('MyApp', ["ui.bootstrap"])
 
 Gem based on Angularjs-rails(https://github.com/hiravgandhi/angularjs-rails) by Hirav Gandhi
 
