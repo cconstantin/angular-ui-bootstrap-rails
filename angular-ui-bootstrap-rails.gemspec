@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.email       = 'chris@chrisconstantin.net'
   s.files       = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
   s.homepage    = 'https://github.com/cconstantin/angular-ui-bootstrap-rails/'
+  s.license     = 'MIT'
 end
