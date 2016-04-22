@@ -1,7 +1,7 @@
 module AngularUI
   module Bootstrap
     module Rails
-      VERSION = "0.14.3"
+      VERSION = "1.3.2"
     end
   end
 end
