@@ -2,7 +2,7 @@
 
 angular-ui-bootstrap-rails wraps the [Angular.js UI Bootstrap](http://angular-ui.github.com/bootstrap) library for use in Rails 3.1 and above. Assets will minify automatically during production.
 
-angular-ui-bootstrap is at v1.3.2
+angular-ui-bootstrap is at v2.4.0
 
 ## Usage
 
